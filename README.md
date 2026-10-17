@@ -4,7 +4,7 @@
 
 ![CI](https://github.com/ThomazGB/radar-estagios/actions/workflows/ci.yml/badge.svg)
 
-> 🔗 **Live demo:** _coming soon_ · **API docs:** _coming soon_ (`/docs`)
+> 🔗 **Live demo:** [radar-estagios.vercel.app](https://radar-estagios.vercel.app) · **API docs:** [radar-estagios-api-pkcm.onrender.com/docs](https://radar-estagios-api-pkcm.onrender.com/docs)
 > ⏳ The API runs on Render's free plan, so the first request after a while may take **~1 minute** to wake it up.
 
 | Job list with filters | Application kanban | Statistics |
