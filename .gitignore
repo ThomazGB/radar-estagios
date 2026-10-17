@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Secrets — never commit these
+.env
+*.env.local
+
+# Local data dumps
+data/raw/
+
+# Local editor/agent config
+.claude/
